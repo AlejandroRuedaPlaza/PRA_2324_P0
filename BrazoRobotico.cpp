@@ -17,7 +17,7 @@ double BrazoRobotico::getY(){
 }
 
 double BrazoRobotico::getZ(){
-	return Z;
+	return z;
 }
 
 bool BrazoRobotico::getSujetando(){
